@@ -5,7 +5,7 @@ This is project was created for the 논문 연구 1 class at Seoul National Univ
 Run the following commands to download the data and install the required packages (only tested on linux machines)
 ```
 pip install requirements.txt
-sh data download.sh
+sh data_download.sh
 ``` 
 
 Next follow the IPython notebooks.
