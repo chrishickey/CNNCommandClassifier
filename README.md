@@ -4,7 +4,7 @@ This is project was created for the 논문 연구 1 class at Seoul National Univ
 ## Setup
 Run the following commands to download the data and install the required packages (only tested on linux machines)
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 sh data_download.sh
 ``` 
 
