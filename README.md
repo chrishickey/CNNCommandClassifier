@@ -12,7 +12,7 @@ Next follow the IPython notebooks.
 
 This project converts audio commands from noise environments in the google command dataset to mel-spectrogram:
 
-![alt text](./image/spectogram.png "Logo Title ")
+![alt text](./image/spectrogram.png "Logo Title ")
 
 Next it uses a 4 layer CNN classifier to classify these images to there corresponding command 
 
