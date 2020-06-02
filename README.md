@@ -1,5 +1,5 @@
 # 논문 연구 수업: Classifiying verbal commands using CNN image classification of command Mel-Spectrograms
-This is project was created for the 논문 연구 1 class at Seoul National University
+This project was created for the 논문 연구 1 and KCC submission at Seoul National University
 
 ## Setup
 Run the following commands to download the data and install the required packages (only tested on linux machines)
